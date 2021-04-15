@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size:10px;
+}
+#marqueeStyle{
+    background-color: aqua;
+}
+.travel_main{
+border:1px solid #c7c7c7;
+padding-right: 0px;
+padding left:0px;
+
+}
+.travel_main img{
+    width:50%;
+    
+}
+.travel_main hr{
+    width:230px;
+}
